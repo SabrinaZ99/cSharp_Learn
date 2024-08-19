@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tstng", "tstng", "{436CB8A4-0A82-4D8B-9071-77694B6ACED1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tstng", "tstng", "{F58F5B06-2500-466E-9921-AE196AF866B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hello_world", "tstng\tstng\hello_world\hello_world.csproj", "{47EEB19F-B33E-495F-9499-E4C3A97A2AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47EEB19F-B33E-495F-9499-E4C3A97A2AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EEB19F-B33E-495F-9499-E4C3A97A2AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EEB19F-B33E-495F-9499-E4C3A97A2AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EEB19F-B33E-495F-9499-E4C3A97A2AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F58F5B06-2500-466E-9921-AE196AF866B7} = {436CB8A4-0A82-4D8B-9071-77694B6ACED1}
+		{47EEB19F-B33E-495F-9499-E4C3A97A2AA3} = {F58F5B06-2500-466E-9921-AE196AF866B7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E215282-7B17-4020-8A97-C37D608D8DAB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\bin\Debug\net8.0\hello_world.exe
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\bin\Debug\net8.0\hello_world.deps.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\bin\Debug\net8.0\hello_world.runtimeconfig.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\bin\Debug\net8.0\hello_world.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\bin\Debug\net8.0\hello_world.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfoInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfo.cs
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.csproj.CoreCompileInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\refint\hello_world.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\ref\hello_world.dll
