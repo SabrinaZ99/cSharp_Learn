@@ -12,3 +12,4 @@ C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\
 C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.pdb
 C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
 C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\ref\hello_world.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\tstng\hello_world\obj\Debug\net8.0\hello_world.sourcelink.json
