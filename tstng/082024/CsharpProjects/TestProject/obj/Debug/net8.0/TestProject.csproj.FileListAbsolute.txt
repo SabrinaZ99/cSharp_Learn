@@ -1,0 +1,15 @@
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\tstng\082024\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
