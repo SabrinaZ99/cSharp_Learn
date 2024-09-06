@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\tstng\\tstng\\hello_world\\hello_world.csproj",
-      "projectName": "hello_world",
-      "projectPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\tstng\\tstng\\hello_world\\hello_world.csproj",
+      "projectUniqueName": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\090624\\090624.csproj",
+      "projectName": "090624",
+      "projectPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\090624\\090624.csproj",
       "packagesPath": "C:\\Users\\15705\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\tstng\\tstng\\hello_world\\obj\\",
+      "outputPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\090624\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\15705\\AppData\\Roaming\\NuGet\\NuGet.Config"
