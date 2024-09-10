@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\FizzBuzz\\FizzBuzz.csproj": {}
+    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\FizzBuzz\\FizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\FizzBuzz\\FizzBuzz.csproj": {
+    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\FizzBuzz\\FizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\FizzBuzz\\FizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\FizzBuzz\\FizzBuzz.csproj",
         "projectName": "FizzBuzz",
-        "projectPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\FizzBuzz\\FizzBuzz.csproj",
-        "packagesPath": "C:\\Users\\15705\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\15705\\Desktop\\Sabrina\\coding\\cSharp_Learn\\FizzBuzz\\obj\\",
+        "projectPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\FizzBuzz\\FizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\zanolinis.LACKAWANNA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\FizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\15705\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zanolinis.LACKAWANNA\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

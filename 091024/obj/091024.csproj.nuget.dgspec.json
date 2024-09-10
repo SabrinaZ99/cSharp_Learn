@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\090624\\090624.csproj": {}
+    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\090624\\090624.csproj": {
+    "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\090624\\090624.csproj",
-        "projectName": "090624",
-        "projectPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\090624\\090624.csproj",
+        "projectUniqueName": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj",
+        "projectName": "091024",
+        "projectPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj",
         "packagesPath": "C:\\Users\\zanolinis.LACKAWANNA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\090624\\obj\\",
+        "outputPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zanolinis.LACKAWANNA\\AppData\\Roaming\\NuGet\\NuGet.Config"

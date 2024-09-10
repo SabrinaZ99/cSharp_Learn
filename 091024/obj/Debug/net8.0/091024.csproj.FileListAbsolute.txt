@@ -1,0 +1,15 @@
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\bin\Debug\net8.0\091024.exe
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\bin\Debug\net8.0\091024.deps.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\bin\Debug\net8.0\091024.runtimeconfig.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\bin\Debug\net8.0\091024.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\bin\Debug\net8.0\091024.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.AssemblyInfoInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.AssemblyInfo.cs
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.csproj.CoreCompileInputs.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.sourcelink.json
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\refint\091024.dll
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.pdb
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\091024.genruntimeconfig.cache
+C:\Users\zanolinis.LACKAWANNA\OneDrive\091024\obj\Debug\net8.0\ref\091024.dll

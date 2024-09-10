@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\tstng\\tstng\\hello_world\\hello_world.csproj",
-      "projectName": "hello_world",
-      "projectPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\tstng\\tstng\\hello_world\\hello_world.csproj",
+      "projectUniqueName": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj",
+      "projectName": "091024",
+      "projectPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\091024.csproj",
       "packagesPath": "C:\\Users\\zanolinis.LACKAWANNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\tstng\\tstng\\hello_world\\obj\\",
+      "outputPath": "C:\\Users\\zanolinis.LACKAWANNA\\OneDrive\\091024\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zanolinis.LACKAWANNA\\AppData\\Roaming\\NuGet\\NuGet.Config"
